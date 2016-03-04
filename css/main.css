@@ -1,0 +1,120 @@
+.enlaces{
+	padding: 25px;
+}
+
+.fondoplomo{
+	padding: 5px;
+	background: #929292;
+	color: white;
+	width: 150px;
+}
+
+.negrita{
+	font-weight: bold;
+}
+
+.peque{
+	font-size: 12px;
+	color: #000;
+}
+
+.chico{
+	font-size: 11px;
+	color: #929292;
+}
+
+.margen{
+	margin-right: 50px;
+}
+
+.seccion{
+	padding: 10px 0;
+	border-bottom: 1px solid #929292;
+}
+
+.fondonegro{
+	padding: 2px 15px;
+	background-color: #000;
+	font-size: 10px;
+	color: #fff;
+	float: left;
+	margin-right: 10px;
+}
+
+.float{
+	float: left;
+	margin-right: 70px; 
+}
+
+.foto{
+	padding: 10% 45%;
+	background-color: #929292;
+}
+
+.caja{
+	width: 100%;
+	background-color: #D6D6D6;
+}
+
+.cajablanca{
+	width: 98%;
+	background-color: #fff;
+	margin: 0 3px;
+}
+
+video{
+	width: 100%;
+}
+
+.cuadro{
+	width: 90%;
+	padding: 10px 20px;
+	margin-top: 10px;
+	background-color: #929292;
+}
+
+.sobrelineado{
+	line-height: 70%;
+}
+
+.sobre{
+	line-height: 120%;
+}
+
+.espacio{
+	margin: 8px 0 15px 0;
+}
+
+.cajita{
+	padding: 5px;
+	margin: 5px 0;
+	background-color: #EBEBEB;
+}
+
+footer{
+	margin-top: 30px;
+	padding: 20px 0;
+	border-top: #444444 solid 3px;
+}
+
+
+.sec{
+	position: relative;
+	left: 20px;
+}
+
+.plomo{
+	padding: 30px 0 0 0;
+	background: #D6D6D6;
+	border-radius: 0px;
+}
+
+.negro{
+	color: #000;
+}
+
+@media (max-width: 600px) {
+	.plomo{
+		padding: 0;
+	}
+}
